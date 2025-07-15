@@ -1,2 +1,2 @@
 # Titanic
-Titanic Survival Prediction will be done by a model
+The Titanic Survival Model is the model which predicts which passenger will more likely be survive. 
